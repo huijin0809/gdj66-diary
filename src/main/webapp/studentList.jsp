@@ -53,7 +53,7 @@
 				<td><%=rs.getString("student_name") %></td>
 				<td><%=rs.getInt("student_age") %></td>
 			</tr>
-		<%2
+		<%
 			}
 		%>
 		</tbody>
